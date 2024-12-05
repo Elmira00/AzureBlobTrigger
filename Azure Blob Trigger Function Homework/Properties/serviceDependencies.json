@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "appInsights1": {
+      "type": "appInsights"
+    },
+    "storage": {
+      "type": "storage",
+      "connectionId": "AzureStorage"
+    }
+  }
+}
